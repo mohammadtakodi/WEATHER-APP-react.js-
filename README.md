@@ -114,9 +114,6 @@ curl -X POST http://localhost:8080/v1/secure/chat \
   }'
 ```
 
-## 📄 许可证
-
-本项目采用 MIT License。
 
 ---
 
@@ -235,7 +232,3 @@ curl -X POST http://localhost:8080/v1/secure/chat \
     "messages": [{"role": "user", "content": "Analyze this code..."}]
   }'
 ```
-
-## 📄 License
-
-This project is licensed under the MIT License.
